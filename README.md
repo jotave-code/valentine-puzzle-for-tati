@@ -1,6 +1,6 @@
 # Valentine's Puzzle
 
-A interactive sliding puzzle website to ask someone to be your Valentine!
+A interactive sliding puzzle website to ask someone to be your Valentine
 
 ## Features
 
@@ -13,7 +13,7 @@ A interactive sliding puzzle website to ask someone to be your Valentine!
 ## Setup
 
 1. **Add your image tiles:**
-   - Cut your image into 3 x 3 squares (I used Figma, but you can probably do this programatically)
+   - Cut your image into 3 x 3 squares
    - Place your 9 PNG tiles in the `images/` folder
    - Also replace your full image with `images/full-image.png`
    - Name them `tile-1.png` through `tile-9.png`
@@ -42,8 +42,8 @@ A interactive sliding puzzle website to ask someone to be your Valentine!
 
 0. **Stage 0:** Letter appears on screen (click to open)
 1. **Stage 1:** She solves the 3x3 sliding puzzle to reveal your photo
-2. **Stage 2:** The full image appears with "...you complete me." and "Will you be my Valentine?" and a Yes button
-3. **Stage 3:** When she clicks "Yes", it's celebration time!
+2. **Stage 2:** The full image appears with a message and a Yes button
+3. **Stage 3:** When she clicks "Yes", it changes to next step
 
 ## Customization
 
